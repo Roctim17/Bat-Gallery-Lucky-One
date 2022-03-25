@@ -1,13 +1,98 @@
 [
     {
-        "id": "",
-        "category": "Men's Sneaker",
-        "name": "",
-        "seller": "Addidas",
-        "price": 420,
-        "stock": 20,
-        "ratings": 4,
-        "ratingsCount": 3725,
-        "img": ""
+        "id": "masuri-cricket-helmet",
+        "category": "Cricket",
+        "name": "Masuri Cricket Helmet",
+        "seller": "Masuri",
+        "price": 289.60,
+        "img": "image/masuri-cricket-helmet.jpg"
     },
+    {
+        "id": "shrey-cricket-helmet",
+        "category": "Cricket",
+        "name": "Shrey Cricket Helmet",
+        "seller": "shrey",
+        "price": 279.10,
+        "img": "image/shrey-cricket-helmet.jpg"
+    },
+    {
+        "id": "dsc-cricket-helmet",
+        "category": "Cricket",
+        "name": "DSC Cricket Helmet",
+        "seller": "DSC",
+        "price": 209.50,
+        "img": "image/dsc-cricket-helmet.jpg"
+    },
+    {
+        "id": "bas-vampire-batting-gloves",
+        "category": "Cricket",
+        "name": "Bas Vampire Batting Gloves",
+        "seller": "BAS",
+        "price": 29.30,
+        "img": "image/bas-vampire-batting-gloves.jpg"
+    },
+    {
+        "id": "bas-vampire-bow-2-strap-molded-batting-pads",
+        "category": "Cricket",
+        "name": "Bas Vampire Batting Pads",
+        "seller": "BAS",
+        "price": 29.30,
+        "img": "image/bas-vampire-bow-2-strap-molded-batting-pads.jpg"
+    },
+    {
+        "id": "ca-ball",
+        "category": "Cricket",
+        "name": "CA Ball",
+        "seller": "CA",
+        "price": 11.45,
+        "img": "image/ca-ball.png"
+    },
+    {
+        "id": "ca-plus-10000-english-willow-cricket-bat",
+        "category": "Cricket",
+        "name": "CA Plus 10000 Cricket Bat",
+        "seller": "CA",
+        "price": 467.45,
+        "img": "image/ca-plus-10000-english-willow-cricket-bat.jpg"
+    },
+    {
+        "id": "CRICKET-BAT-4",
+        "category": "Cricket",
+        "name": "Cricket Bat kookaburra",
+        "seller": "kookaburra",
+        "price": 592.51,
+        "img": "image/CRICKET-BAT-4.jpg"
+    },
+    {
+        "id": "gm-bat",
+        "category": "Cricket",
+        "name": "GM Cricket Bat",
+        "seller": "GM",
+        "price": 512.16,
+        "img": "image/gm-bat.jpg"
+    },
+    {
+        "id": "nike-bat",
+        "category": "Cricket",
+        "name": "NIKE Cricket Bat",
+        "seller": "NIKE",
+        "price": 492.27,
+        "img": "image/nike-bat.jpg"
+    },
+    {
+        "id": "nb-bat",
+        "category": "Cricket",
+        "name": "NB Cricket Bat",
+        "seller": "New Balance",
+        "price": 542.65,
+        "img": "image/nb-cricket-bat.jpg"
+    },
+    {
+        "id": "Thigh-Pad",
+        "category": "Cricket",
+        "name": "Thigh-Pad",
+        "seller": "G&N",
+        "price": 23.97,
+        "img": "image/Thigh-Pad.jpg"
+    }
 ]
