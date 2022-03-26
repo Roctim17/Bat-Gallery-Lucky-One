@@ -4,13 +4,20 @@ nav{
     background-color: black;
     align-items: center;
 }
-nav img{
+nav .img{
     height: 50px;
     width: 150px;
+    color:#fff;
+    font-size:xx-large;
 }
 .menu a{
     padding: 10px;
     text-decoration: none;
     align-items: center;
     color: #fff;
+}
+@media only screen and (max-width:688px){
+    nav{
+        display: none;
+    }
 }

@@ -2,3 +2,9 @@
     position: sticky;
     top: 0;
 }
+@media only screen and (max-width:688px){
+    .card{
+        position: sticky;
+    bottom: 0;
+    }
+}
