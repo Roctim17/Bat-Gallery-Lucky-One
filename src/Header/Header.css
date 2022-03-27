@@ -6,7 +6,7 @@ nav{
 }
 nav .img{
     height: 50px;
-    width: 150px;
+    width: 250px;
     color:#fff;
     font-size:xx-large;
 }
@@ -22,4 +22,8 @@ nav .img{
         position: sticky;
        top: 0;
     } */
+    
+    .menu a{
+        display: none;
+    }
 }

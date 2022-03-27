@@ -1,51 +1,51 @@
 [
     {
-        "id": "masuri-cricket-helmet",
+        "id": "adidas-bat",
         "category": "Cricket",
-        "name": "Masuri Cricket Helmet",
-        "seller": "Masuri",
-        "price": 289.60,
-        "img": "image/masuri-cricket-helmet.jpg"
+        "name": "ADIDAS BAT",
+        "seller": "ADIDAS",
+        "price": 489.60,
+        "img": "image/adidas-bat.jpg"
     },
     {
-        "id": "shrey-cricket-helmet",
+        "id": "ihsan-bat",
         "category": "Cricket",
-        "name": "Shrey Cricket Helmet",
-        "seller": "shrey",
-        "price": 279.10,
-        "img": "image/shrey-cricket-helmet.jpg"
+        "name": "IHSAN BAT",
+        "seller": "IHSAN",
+        "price": 479.10,
+        "img": "image/images.jpg"
     },
     {
-        "id": "dsc-cricket-helmet",
+        "id": "mrf-bat",
         "category": "Cricket",
-        "name": "DSC Cricket Helmet",
-        "seller": "DSC",
-        "price": 209.50,
-        "img": "image/dsc-cricket-helmet.jpg"
+        "name": "MRF BAT",
+        "seller": "MRF",
+        "price": 509.50,
+        "img": "image/mrf-bat.jpg"
     },
     {
-        "id": "bas-vampire-batting-gloves",
+        "id": "puma-bat",
         "category": "Cricket",
-        "name": "Bas Vampire Batting Gloves",
-        "seller": "BAS",
-        "price": 29.30,
-        "img": "image/bas-vampire-batting-gloves.jpg"
+        "name": "PUMA BAT",
+        "seller": "PUMA",
+        "price": 529.30,
+        "img": "image/puma-bat.jpg"
     },
     {
-        "id": "bas-vampire-bow-2-strap-molded-batting-pads",
+        "id": "sf-bat",
         "category": "Cricket",
-        "name": "Bas Vampire Batting Pads",
-        "seller": "BAS",
-        "price": 29.30,
-        "img": "image/bas-vampire-bow-2-strap-molded-batting-pads.jpg"
+        "name": "SF BAT",
+        "seller": "SF",
+        "price": 529.30,
+        "img": "image/sf-bat.jpg"
     },
     {
-        "id": "ca-ball",
+        "id": "sg-bat",
         "category": "Cricket",
-        "name": "CA Ball",
-        "seller": "CA",
-        "price": 11.45,
-        "img": "image/ca-ball.png"
+        "name": "SG BAT",
+        "seller": "SG",
+        "price": 511.45,
+        "img": "image/sg-bat.jpg"
     },
     {
         "id": "ca-plus-10000-english-willow-cricket-bat",
@@ -88,11 +88,11 @@
         "img": "image/nb-cricket-bat.jpg"
     },
     {
-        "id": "Thigh-Pad",
+        "id": "ss-bat",
         "category": "Cricket",
-        "name": "Thigh Pad",
-        "seller": "G&N",
-        "price": 23.97,
-        "img": "image/Thigh-Pad.jpg"
+        "name": "SS BAT",
+        "seller": "SS",
+        "price": 423.97,
+        "img": "image/ss-bat.jpg"
     }
 ]
