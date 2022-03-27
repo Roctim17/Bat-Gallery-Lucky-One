@@ -1,7 +1,35 @@
 .card{
     position: sticky;
     top: 0;
+    padding: 10px;
 }
+.btn-remove ,.btn-chose{
+    width: 100%;
+    height: 50px;
+    border-radius: 8px;
+    bottom: 0;
+    right: 0;
+    border: 0px;
+    color: #fff;
+}
+.btn-remove{
+   background-color: #FF3030; 
+}
+.btn-remove:hover{
+   background-color: #FFE0B3; 
+   color: #FF3030;
+   border: 1px solid #FF3030;
+}
+.btn-chose{
+    background-color: #FF9900; 
+}
+.btn-chose:hover{
+    background-color: #FFE0B3; 
+    color: #FF9900;
+    border: 1px solid #FF9900;
+
+}
+
 @media only screen and (max-width:688px){
     .card{
         position: sticky;

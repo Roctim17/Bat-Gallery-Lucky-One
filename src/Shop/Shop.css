@@ -20,9 +20,10 @@
     
     .product-gallery{
         grid-template-columns: repeat(1, 1fr);
+        grid-gap: 15px;
     }
     .product-container{
         grid-template-columns: repeat(1, 1fr);
-       grid-gap: 0;
+       grid-gap: 15px;
     }
 }
